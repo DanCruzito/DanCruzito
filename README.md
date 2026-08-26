@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Daniel! 👋</h1> <h3 align="center">Desarrollador Full Stack | Laravel · NestJS · Angular</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Construyendo+APIs+robustas+con+Laravel+y+NestJS;Creando+interfaces+modernas+con+Angular;Desarrollador+Full+Stack+Independiente" alt="Typing SVG" /> </p>
+<h1 align="center">¡Hola, soy Dan! 👋</h1> <h3 align="center">Desarrollador Full Stack | Laravel · NestJS · Angular</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Construyendo+APIs+robustas+con+Laravel+y+NestJS;Creando+interfaces+modernas+con+Angular;Desarrollador+Full+Stack+Independiente" alt="Typing SVG" /> </p>
 🚀 Sobre mí
 💻 Desarrollador Full Stack independiente, especializado en Laravel, NestJS y Angular
 🔭 Actualmente trabajando en soluciones a medida para clientes y proyectos propios
